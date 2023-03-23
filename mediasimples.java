@@ -1,4 +1,3 @@
-package diogo;
 
 import java.util.Scanner;
 
